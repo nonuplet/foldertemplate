@@ -1,6 +1,6 @@
 {
   "name": "com.rirfee.foldertemplate",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "displayName": "Folder Template",
   "description": "Unity extension for automatic folder generation based on templates.",
   "author": {
