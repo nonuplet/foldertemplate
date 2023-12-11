@@ -1,0 +1,17 @@
+﻿{
+  "options": {
+    "git": true
+  },
+  "folders": [
+    "Art/Materials",
+    "Art/Models",
+    "Art/Music",
+    "Art/Prefabs",
+    "Art/Sound",
+    "Art/Textures",
+    "Art/UI",
+    "Levels",
+    "Src/Framework",
+    "Src/Shaders"
+  ]
+}
