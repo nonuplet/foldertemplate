@@ -14,17 +14,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Check branch
-        run: |
-          BRANCHS=$(git branch --contains ${{ github.ref_name }})
-          set -- $BRANCHS
-          for BRANCH in $BRANCHS ; do
-            if [[ "$BRANCH" == "main" ]]; then
-              exit 0
-            fi
-          done
-          exit 1
-
       - name: Get tag
         id: tag
         run: echo ::set-output name=name::${GITHUB_REF#refs/tags/v}
