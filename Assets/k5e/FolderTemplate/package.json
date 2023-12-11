@@ -1,0 +1,21 @@
+{
+  "name": "com.rirfee.foldertemplate",
+  "version": "0.1.0",
+  "displayName": "Folder Template",
+  "description": "Unity extension for automatic folder generation based on templates.",
+  "author": {
+    "name": "kokonoe",
+    "url": "https://rirfee.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nonuplet/foldertemplate"
+  },
+  "keywords": [
+    "unity",
+    "folder",
+    "directory",
+    "editor"
+  ],
+  "license": "MIT"
+}

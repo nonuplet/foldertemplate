@@ -1,0 +1,22 @@
+﻿{
+  "options": {
+    "project_name": "hogefuga",
+    "git": true
+  },
+  "folders": [
+    "Animations",
+    "Audio",
+    "Editor",
+    "Fonts",
+    "Materials",
+    "Meshes",
+    "Particles",
+    "Prefabs",
+    "Scripts",
+    "Settings",
+    "Shaders",
+    "Scenes",
+    "Textures",
+    "ThirdParty"
+  ]
+}
